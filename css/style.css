@@ -146,6 +146,7 @@ p
     background: #f1f1f1;
     height:425px;
 }
+
 #forms
 {
     background: #f1f1f1;
@@ -161,4 +162,20 @@ p
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
+}
+
+#solutions_section
+{
+    background: #f1f1f1;
+    text-align: center;
+}
+.glyphicon.glyphicon-envelope
+{
+    color: white;
+    font-size: 14pt;
+}
+.glyphicon.glyphicon-home
+{
+    color: black;
+    font-size: 14pt;
 }
