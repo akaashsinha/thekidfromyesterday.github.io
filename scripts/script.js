@@ -53,6 +53,12 @@ var data = {
 };
 var myChart = new Chart(CHART, {
             type: 'line',
-            data: data
-    });
+            data: data,
+            options: {
+                title: {
+                    display: true,
+                    text: "The Wealth Gap between African Americans and Whites"
+                }
+            }
+    })
 

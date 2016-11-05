@@ -107,6 +107,15 @@
     background: #ff0000;
     color: white;
     text-align: center;
+    height: 150px;
+    overflow: hidden;
+}
+
+#footer
+{
+    background: #118442;
+    color: black;
+    text-align: center;
     height: 200px;
     overflow: hidden;
 }
@@ -174,8 +183,22 @@ p
     color: white;
     font-size: 14pt;
 }
-.glyphicon.glyphicon-home
+
+#solutions_body
 {
-    color: black;
+    background-color: rgb(241, 241, 241);
+}
+
+#graph_title
+{
+    margin-left: 350px;
+
+}
+ol
+{
     font-size: 14pt;
+}
+#solutions_link
+{
+    color: #22426c;
 }
